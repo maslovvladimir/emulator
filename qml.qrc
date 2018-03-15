@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>DeviceFrame.qml</file>
+        <file>DeviceList.qml</file>
+        <file>ModuleList.qml</file>
+        <file>PropertiesFrame.qml</file>
+        <file>CallibriCommon.qml</file>
+        <file>BrainbitProperties.qml</file>
+        <file>CallibriSignal.qml</file>
+        <file>CallibriMems.qml</file>
+        <file>SineSignalControls.qml</file>
+        <file>CardiacSignalControls.qml</file>
+        <file>NoiseSignalControls.qml</file>
+        <file>FileSignalControls.qml</file>
+    </qresource>
+</RCC>
